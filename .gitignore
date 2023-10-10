@@ -1,0 +1,8 @@
+bin
+obj
+.vs
+Properties
+App.config
+packages.config
+SoftverZaTrgovinu.csproj
+SoftverZaTrgovinu.sln
